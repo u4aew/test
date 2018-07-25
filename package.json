@@ -1,0 +1,17 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "window": {
+    "width":1280,
+    "height":750
+  },
+  "scripts": {
+    "launch": "cd .. && nw.exe app"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {}
+}
